@@ -23,7 +23,6 @@
 }
 
 - (void)loadData {
-    
+    NSLog(@"hello");
 }
-
 @end
